@@ -1,0 +1,5 @@
+print("hello khizer, welcome")
+str=input("enter name:")
+print(str) 
+str = input ("enter age:")
+print(str)
