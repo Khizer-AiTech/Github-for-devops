@@ -1,0 +1,14 @@
+git init          --to initialise vscode to git                                                                                                   
+git status         -- to check status                                                                                              
+python hello.py    //run program                                                                                                
+git add hello.py       // to stage                                                                                            
+git status                                                                                                         
+git commit -m "New program"     // to commit the program in git after stage                                                                                   
+ls                                                                                                                 
+rm hello.py                                                                                                        
+ls                                                                                                                 
+git status                                                                                                         
+git restore "hello.py"          // to restore the file from git                                                                                   
+git rm --cache hello.py         // to untarck the file from stage                                                                                  
+ls                                                                                                                                                                                                                          
+git status
